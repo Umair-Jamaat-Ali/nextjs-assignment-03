@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body{
+    background-color: rgb(134 239 172 );
+}
+table, th, td {
+    border: 1px solid;
+    background-color: white;
+    margin-top: 50px;
+    margin-left:140px ;
+    margin-right:130px ;
+    margin-bottom: 30px;
+    width: 1070px;
+    padding: 10px;
+    text-align: center;
+  }
